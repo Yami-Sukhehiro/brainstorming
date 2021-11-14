@@ -1,0 +1,2 @@
+Problem: many people come from very very far away and then realise they can't get an appointment really quick and have to wait for at least 2 days before their appointment comes
+Solution: we are making an app to  schedule the appointments and the app also helps them to locate the hospital/clinic through google maps 
